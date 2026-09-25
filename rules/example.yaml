@@ -1,0 +1,5 @@
+- name: Internal API Key
+  regex: 'INTERNAL_[A-Z0-9]{32}'
+  category: Internal
+  severity: high
+  confidence: 90
